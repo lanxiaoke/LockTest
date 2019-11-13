@@ -1,0 +1,6 @@
+F:\zy\代码\锁测试\ConsoleApp-2\ConsoleApp1\bin\Debug\LockTest.exe.config
+F:\zy\代码\锁测试\ConsoleApp-2\ConsoleApp1\bin\Debug\LockTest.exe
+F:\zy\代码\锁测试\ConsoleApp-2\ConsoleApp1\bin\Debug\LockTest.pdb
+F:\zy\代码\锁测试\ConsoleApp-2\ConsoleApp1\obj\Debug\LockTest.csproj.CoreCompileInputs.cache
+F:\zy\代码\锁测试\ConsoleApp-2\ConsoleApp1\obj\Debug\LockTest.exe
+F:\zy\代码\锁测试\ConsoleApp-2\ConsoleApp1\obj\Debug\LockTest.pdb
